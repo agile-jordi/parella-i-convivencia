@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
+- title: Qui som
   url: /about/
-
-- title: Articles
-  url: /articles/
 
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Som parella
+  url: /somparella/
 
-- title: Search
+- title: Biblioteca
+  url: /biblio/
+
+- title: Cerca
   url: /search/

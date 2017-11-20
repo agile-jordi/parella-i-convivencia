@@ -1,5 +1,18 @@
 # Authors
 
+som_parella:
+  name: Som parella
+  avatar: site-logo.png
+
+gaspar:
+  name: Dr. Gaspar Mora
+  bio: Vicedegà de la Facultat de Teologia de Barcelona
+  avatar: bio-photo.jpg
+
+joan_pradel:
+  name: Joan Pradel
+  avatar: bio-photo.jpg
+
 billy_rick:
   name: Billy Rick
   web: http://thewhip.com

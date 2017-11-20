@@ -13,7 +13,7 @@
 
 <div id="main" role="main">
   <article class="hentry">
-    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Image credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
+    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" >{% if page.image.credit %}<p class="image-credit">Image credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
         <ul class="entry-tags">
@@ -34,8 +34,8 @@
         {% elsif author.avatar %}
           <img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"/>
         {% endif %}
-        <span class="author vcard">By <span class="fn">{{ author.name }}</span></span>
-        <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%B %d, %Y" }}</time></span>
+        <span class="author vcard"><span class="fn">{{ author.name }}</span></span>
+        <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%d-%m-%Y" }}</time></span>
         {% if page.modified %}<span class="entry-date date modified"><time datetime="{{ page.modified }}"><i class="fa fa-pencil"></i> {{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
         {% if site.owner.disqus-shortname and page.comments or site.comments %}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
         {% if page.share %}{% include social-share.html %}{% endif %}
@@ -50,11 +50,11 @@
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
-      {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
+      {% if page.previous_in_category %}
+        <a href="{{ site.url }}{{ page.previous_in_category.url }}" class="btn" title="{{ page.previous_in_category.title }}"> &lt; {{ page.previous_in_category.title }} </a>
       {% endif %}
-      {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next</a>
+      {% if page.next_in_category %}
+        <a href="{{ site.url }}{{ page.next_in_category.url }}" class="btn" title="{{ page.next_in_category.title }}"> {{ page.next_in_category.title }} &gt; </a>
       {% endif %}
     </nav><!-- /.pagination -->
   </article>
