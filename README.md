@@ -1,8 +1,16 @@
-# So Simple Theme
+# Parella i convivència
+
+## Guia ràpida
+
+- Build: `bundle exec jekyll build`
+
+- Desplegar: `bundle exec octopress deploy`
+
+## So Simple Theme
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-## Notable features:
+### Notable features:
 
 * Compatible with Jekyll 3 and GitHub Pages.
 * Responsive templates. Looks good on mobile, tablet, and desktop devices.
@@ -19,7 +27,7 @@ See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) h
 
 ---
 
-## Getting Started
+### Getting Started
 
 So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x.
 

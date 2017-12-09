@@ -1,0 +1,12 @@
+method: s3                                # How do you want to deploy? git, rsync or s3.
+site_dir: _site                           # Location of your static site files.
+
+bucket_name: parellaiconvivencia.cat      # Name of the S3 bucket where these files will be stored.
+access_key_id: AKIAJINKPL4YX6K3BM7Q       # Get this from your AWS console at aws.amazon.com.
+secret_access_key: y1GqkzLzGVkNDPFdxgeeIbuK63MlYG61RrBZsOuC # Keep it safe; keep it secret. Keep this file in your .gitignore.
+distribution_id: E33NENE7Z2N3L8           # Get this from your CloudFront page at https://console.aws.amazon.com/cloudfront/
+remote_path: /                            # relative path on bucket where files should be copied.
+region: eu-central-1                      # Region where your bucket is located.
+verbose: true                             # Print out all file operations.
+incremental: false                        # Only upload new/changed files
+delete: true                              # Remove files from destination which do not match source files.
