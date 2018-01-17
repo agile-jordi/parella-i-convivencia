@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parella i Convivència 2"
+title: "La parella reeixida"
 categories: blog
 excerpt:
 tags: []

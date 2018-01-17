@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parella i Convivència"
+title: "L'aventura d'un començament"
 categories: blog
 excerpt:
 tags: []
