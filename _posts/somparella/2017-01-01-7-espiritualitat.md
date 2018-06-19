@@ -31,9 +31,9 @@ També podem compartir la nostra inquietud espiritual amb altres parelles proper
 
 7a. Reflexiones de tant en tant sobre el sentit de la teva vida? I de la teva parella i família?
 
-7b. Parleu entre vosaltres d'aquesta dimensió "inmaterial" de la vostra persona i de la vostra vida?
+7b. Parleu entre vosaltres d'aquesta dimensió "immaterial" de la vostra persona i de la vostra vida?
 
-7c. Creieu que el clima social d'avui ens ajuda o mes aviat ens fa superficials i materialistes?
+7c. Creieu que el clima social d'avui ens ajuda o més aviat ens fa superficials i materialistes?
 
 7d. Quina repercussió té un bon cultiu de l’espiritualitat en les altres dimensions de la vostra vida: 
           parella, fills, família, amics, treball, entitats i associacions...?

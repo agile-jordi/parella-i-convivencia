@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mètode de treball
+title: Proposta de treball
 excerpt: ""
 modified: 
 categories: somparella
@@ -20,12 +20,12 @@ detingudament per a descobrir tota la seva riquesa.
 
 Aquest treball pot ajudar a preparar-vos per viure la il·lusió del vostre amor amb més intensitat i compromís.
 
-Ahir amics,
-avui parella,
-demà creadors d’una nova família!
-Un desig, un fet,
-una gran tasca.
-Un camí vers l’amor ple.
+> Ahir amics<br>
+> avui parella<br>
+> demà creadors d’una nova família<br>
+> Un desig, un fet<br>
+> una gran tasca<br>
+> Un camí vers l’amor ple<br>
 
 ## Mètode de treball
 

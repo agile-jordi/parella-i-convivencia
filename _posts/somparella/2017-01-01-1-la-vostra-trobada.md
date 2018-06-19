@@ -15,7 +15,7 @@ author: som_parella
 
 Entre altres homes i dones que hi ha al vostre voltant us heu trobat vosaltres dos.
 
-En la vostra elecció us heu fet importants l’un per l’altre, i heu trobat la persona amb qui voleu compartir la vostra vida de forma més intensa.
+En la vostra elecció us heu fet importants l’un per a l’altre, i heu trobat la persona amb qui voleu compartir la vostra vida de forma més intensa.
 
 Això és conseqüència d’un camí que heu fet conjuntament: ha passat pel mutu coneixement, l'enamorament, la sintonia de gustos, la identitat progressiva de sentiments. Heu anat descobrint, poc a poc, que el vostre amor era cada vegada més profund.
 
@@ -25,7 +25,7 @@ Aquest camí és un gran repte. És una tasca apassionant que requereix l’esfo
 
 És un camí que us ha de conduir a consolidar la vostra unió, demostrant-vos com n’és de fort el vostre amor amb el compromís d’un projecte de vida en comú.
 
-**Aquest és un camí d’amor.**
+>Aquest és un camí d’amor.
 
 ## Qüestionari
 

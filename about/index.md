@@ -19,11 +19,11 @@ El CPM, ja des de començament, ha treballat a base de sessions de reflexió i d
 
 Volem oferir també la nostra experiència d’acolliment i diàleg  en un nou format on line, assequible a tothom i tota mena de projecte de parella
 
-El bagatge d’experiència del CPM en aquests 50 anys és molt important: Ha arribat a mes de 40.000 parelles i el treball continua.  En acabar les trobades, tots es manifesten agradablement sorpresos perquè no hi han trobat un clima d’adoctrinament sinó un ambient de reflexió lliure, diàleg obert  i intercanvi amb els altres participants.  S’ofereixen a les parelles uns qüestionaris i uns temps per parlar entre elles; d’aquí en surten reflexions, propostes i debats que enriqueixen tots els participants.  
+El bagatge d’experiència del CPM en aquests 50 anys és molt important: Ha arribat a més de 40.000 parelles i el treball continua.  En acabar les trobades, tots es manifesten agradablement sorpresos perquè no hi han trobat un clima d’adoctrinament sinó un ambient de reflexió lliure, diàleg obert  i intercanvi amb els altres participants.  S’ofereixen a les parelles uns qüestionaris i uns temps per parlar entre elles; d’aquí en surten reflexions, propostes i debats que enriqueixen tots els participants.  
 
 El nostre objectiu sempre ha estat reflexionar sobre els temes més centrals de la parella:
 
-- Som dos persones diferents: Com cal tenir cura de la relació? 
+- Som dues persones diferents: Com cal tenir cura de la relació? 
 - Què vol dir estimar-se?
 - Quina importància te el diàleg? Com ha de ser?
 - Què comporta tenir fills?
