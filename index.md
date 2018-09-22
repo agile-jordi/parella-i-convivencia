@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+excerpt: "Som parella és un treball de reflexió i aprofundiment sobre la vostra parella, la relació entre vosaltres dos i amb tot allò que us envolta."
 search_omit: true
 ---
 

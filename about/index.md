@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qui som
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "Qui som? Som un grup de dones i homes que venim dels Centres de Preparació per al Matrimoni  (CPM), amb una experiència de més de 50 anys  d’acompanyament i preparació de parelles que es volen casar per l’Església."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: 

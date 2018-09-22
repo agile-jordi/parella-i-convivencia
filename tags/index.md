@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tag Index
-excerpt: "An archive of posts sorted by tag."
+title: Índex d'etiquetes
+excerpt: "Un arxiu d'entrades del blog ordeandes per etiquetes"
 search_omit: true
 ---
 

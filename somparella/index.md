@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Som Parella
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "Som parella és un treball de reflexió i aprofundiment sobre la vostra parella, la relació entre vosaltres dos i amb tot allò que us envolta."
 search_omit: true
 ---
 
