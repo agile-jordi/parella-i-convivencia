@@ -21,7 +21,7 @@ Qui som i d'on venim els que hem fet això.<br>
 ![Blog]({{ site.url }}/images/blog.png)
 {: .pull-left}
 
-## [Blog]({{site.url}}/blog)
+## [Blog](https://parellaiconvivencia.blogspot.com/)
 
 Blog obert a tots els temes de la parella, viscuda des d'un punt de vista d'amor i respecte a l'altra persona, i a la resta de membres de la comunitat.
 
